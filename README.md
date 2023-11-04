@@ -7,7 +7,7 @@
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Melo05&layout=compact&hide_border=true&title_color=0b8fff&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kevin-Melo05&theme=gotham&bg_color=0d1117&color=0b8fff&line=fff&point=0b8fff&area=true&hide_border=true)
+<!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kevin-Melo05&theme=gotham&bg_color=0d1117&color=0b8fff&line=fff&point=0b8fff&area=true&hide_border=true) -->
 
 <div align="center">  
 <a href="https://www.instagram.com/kevinmelo_05/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
