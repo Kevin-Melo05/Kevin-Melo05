@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b8fff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b8fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Kevin+de+Melo+Rezende;I'm+18+years+old;I+from+Tatuí-SP,Brazil;I+study+systems+development+at+Etec;I+study+analysis+and+systems+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b8fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Kevin+de+Melo+Rezende;I'm+20+years+old;I+from+Tatuí-SP,Brazil;I+study+systems+development+at+Etec;I+study+analysis+and+systems+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Kevin-Melo05&show_icons=true&count_private=true&hide_border=true&title_color=0b8fff&icon_color=0b8fff&text_color=c9d1d9&bg_color=0d1117" alt="Kevin Melo github stats" /> 
