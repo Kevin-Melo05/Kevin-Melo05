@@ -11,7 +11,8 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/kevinmelo_05/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/kevin-rezende-5ba596297/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+<a href="www.linkedin.com/in/kevin-rezende-5ba596297" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+</a>
 </a>
 </div>
   
