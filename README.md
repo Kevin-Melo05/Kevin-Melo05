@@ -45,14 +45,13 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### My Contribution Snake
+### My Achievements
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=Kevin-Melo05&color_snake=%230b8fff&dot_color_empty=%230d1117&dot_color_filled=%2300bfbf" alt="snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kevin-Melo05&theme=tokyonight&no-bg=true&margin-w=4" alt="trophies" />
 </div>
 
-### Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevin-Melo05&theme=tokyonight&bg_color=0d1117&color=0b8fff&line=0b8fff&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
+<!-- <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kevin-Melo05&color=0b8fff&style=flat-square&label=VISITORS" alt="visitor counter" />
+</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b8fff&height=120&section=footer"/>
