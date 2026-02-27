@@ -47,10 +47,10 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
-<br>
+<br> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b8fff&height=120&section=footer"/>
