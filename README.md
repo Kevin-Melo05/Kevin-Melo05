@@ -45,13 +45,12 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### My Achievements
+<br>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kevin-Melo05&theme=tokyonight&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kevin-Melo05&color=0b8fff&style=flat-square&label=VISITORS" alt="visitor counter" />
-</div> -->
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b8fff&height=120&section=footer"/>
